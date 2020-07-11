@@ -4,7 +4,7 @@ Self-help
 
 ## Apps
 
-* [https://github.com/bayashi/mclocks](https://github.com/bayashi/mclocks "Multiple timezones clock")
+* [mclocks](https://github.com/bayashi/mclocks "Multiple timezones clock")
 
 ## Tools
 
