@@ -1,5 +1,3 @@
-# Bayshi
-
 Self-help
 
 ## Apps
