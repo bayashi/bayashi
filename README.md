@@ -4,7 +4,7 @@
 
 ## Tools
 
-* [jl](https://metacpan.org/pod/distribution/App-jl/script/jl "Show JSON Log Nicely") - Show JSON Log Nicely
+* [jl](https://metacpan.org/pod/distribution/App-jl/script/jl "Show JSON in JSON Log") - Show JSON in JSON Log
 * [vl](https://metacpan.org/pod/distribution/App-vl/script/vl "Makes CUI table vertical") - Makes CUI table vertical
 
 ## CPAN modules
