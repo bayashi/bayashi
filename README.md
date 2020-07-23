@@ -1,6 +1,4 @@
-Self-help
-
-## Apps
+## Desktop Apps
 
 * [mclocks](https://github.com/bayashi/mclocks "Multiple timezones clock")
 
