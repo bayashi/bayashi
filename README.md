@@ -15,7 +15,7 @@
 
 ## Stats
 
-[![Bayashi's github stats](https://github-readme-stats.vercel.app/api?username=bayashi)](https://github.com/bayashi/github-readme-stats)
+[![Bayashi's github stats](https://github-readme-stats.vercel.app/api?username=bayashi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Favorite
 
