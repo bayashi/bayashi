@@ -1,4 +1,4 @@
-Desktop Apps
+**Desktop Apps**
 
 <table>
 <tr>
@@ -6,7 +6,7 @@ Desktop Apps
 </tr>
 </table>
 
-Tools
+**Tools**
 
 <table>
 <tr>
@@ -15,7 +15,7 @@ Tools
 </tr>
 </table>
 
-CPAN modules
+**CPAN modules**
 
 <table>
 <tr>
@@ -25,10 +25,10 @@ CPAN modules
 </tr>
 </table>
 
-Stats
+**Stats**
 
 [![Bayashi's github stats](https://github-readme-stats.vercel.app/api?username=bayashi)](https://github.com/anuraghazra/github-readme-stats)
 
-Favorite
+**Favorite**
 
 🍜🍛🍺
