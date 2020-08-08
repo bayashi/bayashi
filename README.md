@@ -4,10 +4,12 @@
 
 ## Tools
 
-<ul id="horizontal">
-<li style="display:inline-block;"><a href="https://metacpan.org/pod/distribution/App-jl/script/jl" title="Show JSON in JSON Log" target="_blank" style="display:block;">jl</a> - Show JSON in JSON Log</li>
-<li style="display:inline-block;"><a href="https://metacpan.org/pod/distribution/App-vl/script/vl" title="Makes CUI table vertical" target="_blank" style="display:block;">vl</a> - Makes CUI table vertical</li>
-</ul>
+<table style="border:0 none">
+<tr style="border:0 none">
+  <td style="border:0 none"><a href="https://metacpan.org/pod/distribution/App-jl/script/jl" title="Show JSON in JSON Log" target="_blank">jl</a> - Show JSON in JSON Log</td>
+  <td style="border:0 none"><a href="https://metacpan.org/pod/distribution/App-vl/script/vl" title="Makes CUI table vertical" target="_blank">vl</a> - Makes CUI table vertical</td>
+</tr>
+</table>
 
 ## CPAN modules
 
